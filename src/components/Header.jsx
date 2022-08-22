@@ -30,4 +30,4 @@ const mapStateToProps = ({ user, wallet }) => ({
 
 export default connect(mapStateToProps)(Header);
 
-// Créditos: Ajuda do Yang Turma 17 - Requisito 04 //
+
