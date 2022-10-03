@@ -6,6 +6,8 @@ Neste projeto você vai desenvolver uma carteira de controle de gastos com conve
   - Adicionar, remover e editar um gasto;
   - Visualizar uma tabelas com seus gastos;
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
+  
+  ![image](carteira.gif)
 
 ## Desenvolvimento
 
